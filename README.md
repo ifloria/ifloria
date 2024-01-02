@@ -1,4 +1,4 @@
-<div align="center"><img style="padding:20;" align="center" src="https://media.giphy.com/media/dZRI96NcCiAvjWEKBR/giphy.gif" alt="resim"></div>
+<div align="center"><img style="padding:20;" align="center" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif" alt="resim"></div>
 <h5 align="center">Back-end Developer $$</h5>
 
 - 🔭 I’m currently working on Python 
