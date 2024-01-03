@@ -2,7 +2,7 @@
 <h5 align="center">Back-end </h5>
 
 - 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning C#,Php 
+- 🌱 I’m currently learning C#,Php,Rust
 
 
 
