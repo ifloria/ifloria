@@ -1,7 +1,6 @@
 <div align="center"><img style="padding:20;" align="center" src="https://media.giphy.com/media/J8Ei4Wqm8npkY/giphy.gif" alt="resim"></div>
 <h5 align="center">Back-end </h5>
 
-- 🔭 I’m currently working on Python 
 
 
 
